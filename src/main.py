@@ -14,7 +14,7 @@ app = flask.Flask(__name__)
 # this file is not used while deployed on Qovery
 configuration_file_path = '../.qovery/local_configuration.json'
 # the database name comes from .qovery.yml file
-database_name = 'my-postgresql-3498225'
+database_name = 'zcc95ae96-postgresql.qovery.io'
 
 # get database configuration from Qovery
 qovery = Qovery(configuration_file_path=configuration_file_path)
