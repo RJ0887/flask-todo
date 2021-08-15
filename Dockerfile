@@ -1,5 +1,5 @@
 FROM python:3.7
-MAINTAINER Romaric Philogène <rphilogene@qovery.com>
+MAINTAINER RJ <rjho87@gmail.com>
 
 EXPOSE 5000
 
